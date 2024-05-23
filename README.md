@@ -11,7 +11,7 @@
     </header>
     <main>
         <p>Ceci est un paragraphe de contenu.</p>
-    </main>
+        <img src="https://images.app.goo.gl/kaYe79tcwP1SC61W6" alt="Description de l'image">    </main>
     <footer>
         <p>© 2024 Mon Site Web</p>
     </footer>
